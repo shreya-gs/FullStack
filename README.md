@@ -6,7 +6,6 @@
 ## **1. Project Description:-**
 * In this project, we aim to develop an AI solution to classify CT scan images as COVID-19 positive(COVID) or negative(Non-COVID). 
 * The COVID-19 pandemic has highlighted the need for efficient diagnosis, and CT scans have shown promise in aiding detection. Leveraging deep learning techniques, our project focuses on training a model to analyze CT scan images and provide accurate predictions for COVID-19 infection.
-* The developed model can assist healthcare providers by offering an additional diagnostic resource, potentially contributing to faster and more accurate patient management during a critical time.
 
 ## **2. Dataset Description:-**
 * This dataset contains 1252 CT scans that are positive for SARS-CoV-2 infection (COVID-19) and 1230 CT scans for patients non-infected by SARS-CoV-2, 2482 CT scans in total. 
@@ -15,8 +14,11 @@
 
 ## **3. Steps to run the project in system:-**
 * Clone or download the repository from Github.
-* Download the image data [Zip file](https://drive.google.com/file/d/1GjyA-RaoHb33Sq0EKRvr4-fsA7BNC66U/view?usp=sharing) from here and save it to the root folder of the project.
-* After that run the Code file in your desired notebook, eg. Jupyter notebook, Google Collab, VS Code.
+* Download the image data [Zip file](https://drive.google.com/file/d/1GjyA-RaoHb33Sq0EKRvr4-fsA7BNC66U/view?usp=sharing).
+* After downloading copy paste the zip file into dataset named ct-scan-of-covid in kaggle.
+* After that run the Code file in Kaggle.
+
+  **NOTE:** Run the code in Kaggle.
 
 ## **4. Approach towards problem:-**
 
@@ -35,7 +37,7 @@
     * Splitting the data into Training and validation sets.
   
   * **Model Building:**
-    * We used ResNet50 Model architecture which offers better performance and capacity to capture complex features.
+    * I have used ResNet50 Model architecture for better performance and capacity to capture complex features.
     * Adding custom layers like Average pooling 2D layer, Dense Layers
     * Frozing the layers of the ResNet base model to avoid overwriting learned features.
     * Compiled the model using binary cross-entropy, Adam optimizer and performance metrics as accuracy.
@@ -52,14 +54,16 @@
    
 ## **5. Tech Stack used:-**
 * Python
-* VS Code Jupyter Notebooks
+* Kaggle Jupyter Notebooks
 * Tensorflow, Keras
 * Visualization libraries like Matplotlib.Pyplot, and Seaborn.
-* Numpy, Pandas, PIL(Pillow module), and Sklearn.
+* Numpy, Pandas, and Sklearn.
 
 
-![Colourful Music Concert Event YouTube Thumbnail](https://github.com/piyush8227/FullStack/assets/78916771/2525babb-adfb-486c-8280-e39ed09ab535)
+![CAPSTONE PROJECT (1)](https://github.com/shreya-gs/FullStack/assets/124378144/2d8dfc98-7d44-47ab-a4d3-7165f4652b96)
 
+
+video to be added
 [Video demo for the project](https://youtu.be/Ir-0eR5ZO00)
 
 ## **6. References:-**
