@@ -65,8 +65,7 @@
 
 Access project report and screenshots in this drive folder [link](https://drive.google.com/drive/folders/1RMvSVzSpXb0rqZ9PUkO0UdOdscaY_rVe?usp=sharing)
 
-video to be added
-[Video demo for the project](https://youtu.be/Ir-0eR5ZO00)
+[Video demo for the project](https://drive.google.com/file/d/1l-B7Ktcj-fcIXYkXsadKdOIr9F4qVemf/view?usp=sharing)
 
 ## **6. References:-**
 * **[Keras](https://keras.io/api/)**
