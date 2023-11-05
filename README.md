@@ -63,9 +63,8 @@
 ![CAPSTONE PROJECT (1)](https://github.com/shreya-gs/FullStack/assets/124378144/2d8dfc98-7d44-47ab-a4d3-7165f4652b96)
 
 
-Access project report and screenshots in this drive folder [link](https://drive.google.com/drive/folders/1RMvSVzSpXb0rqZ9PUkO0UdOdscaY_rVe?usp=sharing)
+Access project report, screenshots and video in this drive folder [link](https://drive.google.com/drive/folders/1RMvSVzSpXb0rqZ9PUkO0UdOdscaY_rVe?usp=sharing)
 
-[Video demo for the project](https://drive.google.com/file/d/1l-B7Ktcj-fcIXYkXsadKdOIr9F4qVemf/view?usp=sharing)
 
 ## **6. References:-**
 * **[Keras](https://keras.io/api/)**
